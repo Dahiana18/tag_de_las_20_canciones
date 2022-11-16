@@ -12,3 +12,11 @@
     font-family: 'Dancing Script', cursive;
     font-size: 5guitrem; 5.5
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: blueviolet;
+    color: bisque;
+}
