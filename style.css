@@ -20,3 +20,23 @@ button{
     background-color: blueviolet;
     color: bisque;
 }
+.table td{
+    border: 1px; solid;
+    text-align: center;
+}
+.table th:hover{
+    color:aqua;
+    background-color: black;
+}
+.table tr{
+    color: black;
+    background-color: aquamarine;
+    font-family: 'Indie Flower', cursive;
+}
+caption{
+    font-family: 'Lobster', cursive;
+}
+.table td:hover{
+    color:azure;
+    background-color: blueviolet;
+}
